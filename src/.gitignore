@@ -2,6 +2,7 @@
 
 # === Owned files start ===
 # account/routes.tsx
+# account/account-security/SigningIn.tsx
 # account/assets/content.ts
 # === Owned files end =====
 
@@ -86,7 +87,6 @@
 /account/account-security/DeviceActivity.tsx
 /account/account-security/LinkedAccounts.tsx
 /account/account-security/LinkedAccountsToolbar.tsx
-/account/account-security/SigningIn.tsx
 /account/api/constants.ts
 /account/api/methods.ts
 /account/api/parse-links.ts
